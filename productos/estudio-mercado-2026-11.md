@@ -22,7 +22,7 @@ Ticket promedio e-commerce bajó a $186.755 → productos de $100–160k funcion
 | 7 | Perrito peluche interactivo con correa | 2334326 | 65.000 | 350 | 129.900 | ~22.000 | Mascotas + juguetes |
 | 8 | Cojín pata de gato | 2252220 | 69.900 | 148 | 139.900 | ~27.000 | Regalo / hogar |
 | 9 | Proyector luces navideñas | 2334446 | 82.000 | 500 | 179.900 | ~55.000 | Navidad (muere 24-dic) |
-| 10 | Triki digital | 1071567 | — | — | 110.900 | ~28.000 | Juguete, bajo riesgo |
+| 10 | Triki digital | 1071567 | ~40.000 | ≥30 | 110.900 | ~28.000 | Juguete, bajo riesgo |
 
 Demanda alta pero NO recomendada en DROPI: audífonos/power banks (saturados, réplicas de marca), ropa (tallas), perfumes réplica, suplementos/adelgazantes (Meta + Invima).
 
