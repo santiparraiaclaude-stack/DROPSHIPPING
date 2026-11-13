@@ -15,5 +15,5 @@ Eres el agente de dropshipping de Santiago. Embudo: producto ganador → video I
 - Prueba en Meta: 3 conjuntos (1 por gancho), $20–30k COP/día c/u por 3 días; apagar los de CPA alto, escalar ganadores.
 
 ## Estado actual
-- Producto elegido: cojín con forma de mascota → ver `productos/cojin-mascota.md`.
+- Recomendaciones con datos DROPI: `productos/recomendaciones-2026-11.md` (top: cojín pata de gato 2252220, perrito interactivo 2334326).
 - Pendiente: buscar en DROPI (costo, stock, flete), fijar precio, saber si hay tienda Shopify y presupuesto diario.
